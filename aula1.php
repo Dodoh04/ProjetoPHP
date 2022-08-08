@@ -12,7 +12,11 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php
+
+        echo "Olá mundo!!!";
+
+    ?>
 </body>
 </html>
 <?php
